@@ -1,47 +1,54 @@
-## PRESENTAZIONE 
+# BooRoad
 
-SIMO
-1. Riprendete le necessità esposte dal cliente 
+Full Stack web application developed as a team project during the Boolean Full Stack Web Developer program.
 
-a. app responsive per telefono e pc
+## Overview
 
-b. rubrica contatti dei partecipanti per gli accompagnatori e schermata per gli organizzatori 
+Brief description of the project and its purpose.
 
+## Features
 
+- User-friendly interface
+- Dynamic content management
+- Database integration
+- Responsive design
+- REST API integration
+- Authentication and authorization
+- CRUD operations
 
-GIUSTO
-2. Raccontate cosa avete preso in considerazione come prioritario e perché  
+## Tech Stack
 
-a. schermata visualizzazione viaggi
+### Languages
 
-b. rubrica contatti
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-c. pagina partecipante
+### Frameworks & Libraries
 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
+### Database
 
-IO ERNESTO
-3. Spiegate quali sono le funzionalità principali realizzate e a quali bisogni del cliente + Presentate il prototipo e mostrate le funzionalità
-rispondono
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-a. pagina organizzatori in cui visualizzare tutte le info su tutti i  viaggi in corso, presentiamo la pagina, da cui si può aprire la scheda di ogni viaggio
+### Tools
 
-b. scheda di visualizzazione ogni viaggio con relativa rubrica dei partecipanti, per gli accompagnatori del viaggio. dalla rubrica si può andare alla pagina del singolo partecipante da cui visualizzare tutte le relative info.
-searchbar per filtrare singolo partecipante dalla lista
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-c. pagina partecipante
+## Team Project
 
-d. per gli admin schemrata di aggiunta nuovo viaggio
+Developed collaboratively using Git, GitHub and Agile workflows.
 
+## Author
 
-VERONICA
-4. Raccontate le funzionalità che implementerete nelle prossime release (indicando in quale
-rilascio specifico - secondo, terzo ecc)
-
- 2° database in cui salvare e visualizzare tutte le informazioni dei partecipanti 
- 2° possibilità di modifcare info del viaggio, aggiungere togliere partecipanti, gestire accompagnatori, nella schermata del viaggio, separazione schermata admin e accompagnatori
- 3° pulsanti per contatti rapidi nella pagina del partecipante 
- 3° design del sito più elaborato
- 
-
-6. Assicuratevi che al cliente sia tutto chiaro e lasciate spazio a domande e dubbi
+[Simone Zoroddu](https://github.com/SimoneZoroddu)
+[Ernesto Costanzo](https://github.com/ernestocostanzo51)
+[Giusto Antona](https://github.com/giustoantonadev)
+[Pietro Bertino](https://github.com/pietrobertino)
+[Veronica Golinelli](https://github.com/desmoveronica2002-bot)
